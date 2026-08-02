@@ -21,7 +21,7 @@ const SITE = "https://aiforge.agency";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
   title: {
-    default: "AI Forge Agency — Forging Ideas Into Intelligent Experiences",
+    default: "AI Forge | Premium Web & AI Agency",
     template: "%s | AI Forge Agency",
   },
   description:
@@ -38,13 +38,13 @@ export const metadata: Metadata = {
     type: "website",
     url: SITE,
     siteName: "AI Forge Agency",
-    title: "AI Forge Agency — Forging Ideas Into Intelligent Experiences",
+    title: "AI Forge | Premium Web & AI Agency",
     description:
       "A premium AI and web creative studio. Intelligent websites, automation systems, brand identity and AI media.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI Forge Agency",
+    title: "AI Forge | Premium Web & AI Agency",
     description: "Forging ideas into intelligent experiences.",
   },
   icons: { icon: "/logo.png" },
