@@ -2,7 +2,6 @@
  * All site copy lives here. Edit this file, not the components.
  */
 
-import Branding from "@/components/Branding";
 
 export const BRAND = {
   name: "AI Forge",
