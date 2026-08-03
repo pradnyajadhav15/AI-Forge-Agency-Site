@@ -74,7 +74,7 @@ export const PROJECTS: Project[] = [
     tags: ["Website Design", "Branding", "Multilingual", "seo"],
     desc: "A single-orchard brand taken online - seasonal availability, farm storytelling and ordering that runs straight through WhatsApp.",
     art: "orchard",
-    href: "https://mango-farm.netlify.app/",
+    href: "https://mango-farm-omega.vercel.app/",
   },
   {
     no: "02",
