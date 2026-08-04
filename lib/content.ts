@@ -8,7 +8,7 @@ export const BRAND = {
   full: "AI Forge Agency",
   tagline: "Forging ideas into intelligent experiences.",
   email: "hello@aiforge.agency",
-  instagram: "#",
+  instagram: "https://www.instagram.com/aiforge.co/?hl=en",
   linkedin: "#",
 };
 

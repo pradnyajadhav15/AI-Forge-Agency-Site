@@ -49,7 +49,7 @@ export default function Hero() {
             </motion.p>
 
             <motion.div className="flex flex-wrap gap-3 justify-center mt-[clamp(1.8rem,3.5vw,2.6rem)]" {...fade(0.62)}>
-              <MagneticLink href="#https://www.instagram.com/aiforge.co/?hl=en" className="btn btn--solid">
+              <MagneticLink href="#contact" className="btn btn--solid">
                 Start a Project <span className="ar">&rarr;</span>
               </MagneticLink>
               <Link href="#work" className="btn btn--ghost btn--down">
