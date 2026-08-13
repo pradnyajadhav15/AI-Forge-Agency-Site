@@ -66,9 +66,18 @@ export type Project = {
 };
 
 export const PROJECTS: Project[] = [
- 
   {
     no: "01",
+    name: "Makheshwari Foods",
+    cat: "FMCG / E-commerce",
+    tags: ["Website Design", "Branding", "Payments", "Admin Dashboard", "SEO"],
+    desc: "A roasted makhana brand taken online end to end - live payments, stock control, coupons, GST invoices and an admin dashboard that runs the shop.",
+    art: "orchard",
+    href: "https://makheshwari-foods.vercel.app/",
+  },
+ 
+  {
+    no: "02",
     name: "Mango Farm",
     cat: "Agriculture / E-commerce", 
     tags: ["Website Design", "Branding", "Multilingual", "seo"],
@@ -77,7 +86,7 @@ export const PROJECTS: Project[] = [
     href: "https://mango-farm-omega.vercel.app/",
   },
   {
-    no: "02",
+    no: "03",
     name: "Ganapati",
     cat: "E-commerce / Cultural Brand",
     desc: "A craft studio's storefront: catalogue, live payments, order tracking and receipts, in three languages.",
@@ -87,7 +96,7 @@ export const PROJECTS: Project[] = [
   },
   
   {
-    no: "03",
+    no: "04",
     name: "Developer Portfolio",
     cat: "Student Project",
     desc: "A portfolio site for a full-stack developer, with project case studies, skills and contact.",
