@@ -72,7 +72,7 @@ export const PROJECTS: Project[] = [
     cat: "FMCG / E-commerce",
     tags: ["Website Design", "Branding", "Payments", "Admin Dashboard", "SEO"],
     desc: "A roasted makhana brand taken online end to end - live payments, stock control, coupons, GST invoices and an admin dashboard that runs the shop.",
-    art: "orchard",
+    art: "topo",
     href: "https://makheshwari-foods.vercel.app/",
   },
  
